@@ -1,0 +1,11 @@
+name = "ARMAModels"
+uuid = "df56a90a-c303-4e9b-a33e-3a999ecdf863"
+authors = ["Marcin "]
+version = "0.1.0"
+
+[deps]
+LineSearches = "d3d80556-e9d4-5f37-9878-2ab0fcc64255"
+LinearAlgebra = "37e2e46d-f89d-539d-b4ee-838fcccc9c8e"
+Optim = "429524aa-4258-5aef-a3af-852621145aeb"
+Statistics = "10745b16-79ce-11e8-11f9-7d13ad32a3b2"
+VariableTransforms = "4fb9a2ed-fee9-49f0-a4d5-16b4425d24a8"
