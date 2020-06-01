@@ -234,5 +234,4 @@ function ARMA_criterion!(model::ARMAModel, parameters::AbstractArray; return_res
     llavg
 end
 
-include("ARMAModelsNotFixed.jl")
 end # module
